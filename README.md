@@ -4,12 +4,14 @@ Quickly convert image to high quality ascii
 I have create this package for the Water Panther WebBrowser project.
 
 ## Usage
-You need nodejs to run it
+You need [NodeJS](https://nodejs.org/en/download/) and [GraphicsMagick](http://www.graphicsmagick.org/README.html#installation) to run it
            
-You just have to run `node img imageName.png`
+You just have to run 
+`npm install waterimage`
+and then
+`npm test` or `npm start examples/paysage.jpg`
 
-After the image name you can precise the image depth, between 2 and 8. Lower values are quick, higher value are more pretty. By default it is 4, the better quality/sp
-eed ratio.
+After the image name you can precise the image depth, between 2 and 8. Lower values are quicker, higher value are prettiest. Ma favorite value is 4, the better quality/speed ratio.
 
 # Important to know
 This package is made to be used in console. The ascii image can only be rendered in a console, because of using terminal color tags.
