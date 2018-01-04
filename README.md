@@ -19,7 +19,10 @@ This package work with jpg, png, gif (for gif you need to precise wich frame nee
 # Why the image quality is good
 This script take advantage on the others ascii converters because it use a special char who take the bottom of the character space, and let see the background color on top of the character place. That let me able to show two color per character place. That give better quality because that let us able to have twice more "pixels" in height :-)
 
-
+# Donate
+You can make me a donation to support my work :
+- With Liberapay : [https://liberapay.com/drulac/](https://liberapay.com/drulac/)
+- With Paypal : drulac@protonmail.com
 
 ![paysage](./examples/paysage.jpg)
 
