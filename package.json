@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node bin/water-image examples/paysage.jpg",
+    "test": "node bin/water-image examples/landscape.jpg",
     "start": "node bin/water-image"
   },
   "repository": {
