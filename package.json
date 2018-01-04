@@ -1,6 +1,6 @@
 {
   "name": "waterimage",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Quickly convert image to high quality ascii",
   "main": "index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
     "test": "node bin/water-image examples/paysage.jpg",
     "start": "node bin/water-image"
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/Drulac/waterImage.git"
   },
