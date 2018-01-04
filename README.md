@@ -6,7 +6,15 @@ I have create this package for the Water Panther WebBrowser project.
 ## Usage
 You need nodejs to run it
            
-You just have to run `node img imageName.png`
+You just have to run
+
+```js
+npm install
+
+npm test
+# or
+npm start -- imageName.jpg
+```
 
 After the image name you can precise the image depth, between 2 and 8. Lower values are quick, higher value are more pretty. By default it is 4, the better quality/speed ratio.
 
