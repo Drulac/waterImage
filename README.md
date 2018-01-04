@@ -22,14 +22,20 @@ This script take advantage on the others ascii converters because it use a speci
 
 
 ![paysage](./examples/paysage.jpg)
+
 become
-![ASCIIpaysage](./examples/ASCIIpaysage.jpg)
+
+![ASCIIpaysage](./examples/ASCIIpaysage.png)
 
 ![katheryn](./examples/katheryn.jpg)
+
 become
+
 ![ASCIIkatheryn](./examples/ASCIIkatheryn.png)
 
 ![privateinvestocat](./examples/privateinvestocat.jpg)
+
 become
+
 ![ASCIIprivateinvestocat](./examples/ASCIIprivateinvestocat.png)
 
