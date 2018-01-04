@@ -26,21 +26,21 @@ You can make me a donation to support my work :
 - With Liberapay : [https://liberapay.com/drulac/](https://liberapay.com/drulac/)
 - With Paypal : drulac@protonmail.com
 
-![paysage](./examples/paysage.jpg)
+![land](./examples/landscape.jpg)
 
 become
 
-![ASCIIpaysage](./examples/ASCIIpaysage.png)
+![ASCIIland](./examples/ASCIIlandscape.png)
 
-![katheryn](./examples/katheryn.jpg)
-
-become
-
-![ASCIIkatheryn](./examples/ASCIIkatheryn.png)
-
-![privateinvestocat](./examples/privateinvestocat.jpg)
+![katheryn](./examples/kath.jpg)
 
 become
 
-![ASCIIprivateinvestocat](./examples/ASCIIprivateinvestocat.png)
+![ASCIIkatheryn](./examples/ASCIIkath.png)
+
+![privateinvestocat](./examples/cat.jpg)
+
+become
+
+![ASCIIprivateinvestocat](./examples/ASCIIcat.png)
 
