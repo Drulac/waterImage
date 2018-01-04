@@ -1,0 +1,33 @@
+{
+  "name": "waterimage",
+  "version": "1.0.0",
+  "description": "Quickly convert image to high quality ascii",
+  "main": "img.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "gm": "^1.23.1",
+    "pngjs": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node img"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drulac/waterImage.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ascii",
+    "image",
+    "picture",
+    "convert"
+  ],
+  "author": "Drulac <drulac@protonmail.com> (https://github.com/Drulac/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Drulac/waterImage/issues"
+  },
+  "homepage": "https://github.com/Drulac/waterImage#readme"
+}
