@@ -11,7 +11,11 @@ You just have to run
 and then
 `npm test` or `npm start examples/paysage.jpg`
 
+<<<<<<< HEAD
 After the image name you can precise the image depth, between 2 and 8. Lower values are quicker, higher value are prettiest. Ma favorite value is 4, the better quality/speed ratio.
+=======
+After the image name you can precise the image depth, between 2 and 8. Lower values are quick, higher value are more pretty. By default it is 4, the better quality/speed ratio.
+>>>>>>> 64ba9cb1fc577738befaa762044e64d469360956
 
 # Important to know
 This package is made to be used in console. The ascii image can only be rendered in a console, because of using terminal color tags.
