@@ -1,6 +1,6 @@
 {
   "name": "waterimage",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Quickly convert image to high quality ascii",
   "main": "index.js",
   "dependencies": {
